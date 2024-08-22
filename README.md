@@ -22,5 +22,5 @@ My process was to get the card `<div>` in the middle of the overall webpage. Onc
 
 ## Author
 
-- Frontend Mentor - [@kevinlw14](https://www.frontendmentor.io/profile/kevinlw14)
+- Frontend Mentor - [@Kevinw14](https://www.frontendmentor.io/profile/Kevinw14)
 
